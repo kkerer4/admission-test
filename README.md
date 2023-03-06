@@ -1,10 +1,10 @@
 # admission-test
 
-Q1: 
+[Question 1](https://github.com/kkerer4/admission-test/blob/main/Q1.py)
 
-Q2:
+[Question 2](https://github.com/kkerer4/admission-test/blob/main/Q2.py)
 
-Q3:
+[Question 3]
 1. What is Git and why is it used?
 
 2. What is the difference between List, Dictionary, Tuple and Set in Python?
