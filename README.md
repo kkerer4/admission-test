@@ -12,3 +12,5 @@ Git 是一種分散式版本的版本控制系統。如有多個開發者時，�
 2. What is the difference between List, Dictionary, Tuple and Set in Python?
 
 List 和 Tuple 都是有序，List 為可變動列表，Tuple 使用方法跟 List 一樣但不可變動列表中的資料。
+
+而 set 和 dictionary 是沒有順序的，但可以計算。set 通常放字串，而 dictionary 是以 key 和 value 來儲存。
